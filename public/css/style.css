@@ -1,0 +1,7 @@
+.background-image {
+    background-image: url('/img/bg.jpg'); /* Ganti dengan URL gambar latar belakang Anda */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Agar gambar mencakup seluruh tinggi halaman */
+}
